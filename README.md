@@ -8,7 +8,8 @@ Built a RAG chatbot from scratch using Python, Ollama, and LangChain for college
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit)
 ![Ollama](https://img.shields.io/badge/Ollama-black?logo=ollama)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium)
-![License Vibe Coded]([https://x.com/karpathy/status/1886192184808149383?lang=en])
+![](https://img.shields.io/badge/Vibe%20Coded-auto?logo=googlegemini&labelColor=white&color=orange&link=https%3A%2F%2Fx.com%2Fkarpathy%2Fstatus%2F1886192184808149383%3Flang%3Den
+)
 
 # LLM based RAG model Chatbot for my College Website
 
