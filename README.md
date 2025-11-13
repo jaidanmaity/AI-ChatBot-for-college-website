@@ -1,5 +1,5 @@
 # AI-Powered RAG Chatbot for my College Website
-Build a RAG chatbot from scratch using Python, Ollama, and LangChain for college webite
+Built a RAG chatbot from scratch using Python, Ollama, and LangChain for college webite
 
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
