@@ -1,5 +1,5 @@
-# AI-ChatBot-for-college-website
-Builded a RAG chatbot from scratch using Python, Ollama (Phi-3), and LangChain for college webite
+# AI-Powered RAG Chatbot for my College Website
+Build a RAG chatbot from scratch using Python, Ollama, and LangChain for college webite
 
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
@@ -10,7 +10,7 @@ Builded a RAG chatbot from scratch using Python, Ollama (Phi-3), and LangChain f
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium)
 ![License Vibe Coded]([https://x.com/karpathy/status/1886192184808149383?lang=en])
 
-# AI-Powered RAG Chatbot for my College Website
+# LLM based RAG model Chatbot for my College Website
 
 This project is a hands-on exploration of building a modern, end-to-end **Retrieval-Augmented Generation (RAG)** system from the ground up.
 
