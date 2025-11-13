@@ -8,7 +8,7 @@ Builded a RAG chatbot from scratch using Python, Ollama (Phi-3), and LangChain f
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit)
 ![Ollama](https://img.shields.io/badge/Ollama-black?logo=ollama)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License Vibe Coded]([https://x.com/karpathy/status/1886192184808149383?lang=en])
 
 # AI-Powered RAG Chatbot for my College Website
 
